@@ -77,7 +77,7 @@ public class KonversiSuhu {
         scanner.close();
     }
 
-    // Fungsi konversi suhu (ejaan "Celsius" diperbaiki)
+    // Fungsi konversi suhu
     public static double celsiusToFahrenheit(double c) {
         return (c * 9 / 5) + 32;
     }
